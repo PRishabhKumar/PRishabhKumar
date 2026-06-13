@@ -6,34 +6,13 @@
 
 # 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PRishabhKumar&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+<p align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRishabhKumar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=PRishabhKumar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 # 📈 Analytics:
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRishabhKumar&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+</p>  
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PRishabhKumar&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRishabhKumar&theme=tokyonight" width="100%" alt="Profile Details"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PRishabhKumar&theme=tokyonight" height="180" alt="Repos Per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PRishabhKumar&theme=tokyonight" height="180" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PRishabhKumar&theme=tokyonight" height="180" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PRishabhKumar&theme=tokyonight" height="180" alt="Productive Time"/>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

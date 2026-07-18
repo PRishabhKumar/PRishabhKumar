@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=P+Rishabh+Kumar&repeat=false" alt="Rishabh Kumar" />
+</p>
+
+<p align="center">
   <a href="https://github.com/PRishabhKumar" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Backend+%26+Cloud+Enthusiast;Final+Year+CS+Student" alt="Typing SVG" />
   </a>

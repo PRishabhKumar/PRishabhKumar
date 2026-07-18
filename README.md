@@ -1,18 +1,61 @@
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/p-rishabh-kumar-9336b0289) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishabh260405@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-# 📊 GitHub Stats:
-
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRishabhKumar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180" alt="Top Languages"/>
+<p align="center">
+  <a href="https://github.com/PRishabhKumar" target="_blank" rel="noopener noreferrer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Backend+%26+Cloud+Enthusiast;Final+Year+CS+Student" alt="Typing SVG" />
+  </a>
 </p>
 
-# 📈 Analytics:
+<p align="center">
+  <a href="https://rishiverse.framer.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="50" alt="Portfolio" title="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:rishabh260405@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="50" alt="Email" title="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/p-rishabh-kumar-9336b0289/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50" alt="LinkedIn" title="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/PRishabhKumar" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50" alt="GitHub" title="GitHub" />
+  </a>
+</p>
+
+<hr>
+
+## About Me
+
+I'm **Rishabh Kumar** — a CS student focused on building full-stack and backend systems, working across the JS/Python ecosystem with cloud deployment on AWS and GCP.
+
+- **Role:** Final Year Student at VIT Vellore
+- **Education:** B.Tech in Computer Science and Engineering
+- **Focus areas:** Full-Stack Development · Backend Systems · GenAI · Cloud
+- **Contact:** [rishabh260405@gmail.com](mailto:rishabh260405@gmail.com)
+
+<hr>
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,py,cpp,java,ts,html,css,react,nextjs,nodejs,express,flask&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,tailwind,aws,gcp,git,github,vercel&theme=dark" />
+</p>
+
+### AI Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-copilot-dark.svg" height="48" alt="GitHub Copilot" title="GitHub Copilot" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/antigravity-color.png" height="48" alt="Antigravity" title="Antigravity" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/claude-ai.svg" height="48" alt="Claude" title="Claude" />
+</p>
+
+<hr>
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRishabhKumar&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
-</p>  
 </p>

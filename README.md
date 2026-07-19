@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://rishiverse.framer.app" target="_blank" rel="noopener noreferrer">
+  <a href="https://rishiverse.framer.website" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="50" alt="Portfolio" title="Portfolio" />
   </a>
   &nbsp;&nbsp;

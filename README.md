@@ -58,8 +58,3 @@ I'm **Rishabh Kumar** — a CS student focused on building full-stack and backen
 
 <hr>
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRishabhKumar&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
-</p>
